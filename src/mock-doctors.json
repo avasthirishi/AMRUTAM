@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rakesh Sharma",
+    "specialty": "Cardiologist",
+    "hospital": "AIIMS Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Rakesh Sharma is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and vascular diseases, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Interventional Cardiology."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dr. Neha Verma",
+    "specialty": "Dentist",
+    "hospital": "Fortis Hospital, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Neha Verma is a highly skilled Dentist with a passion for providing comprehensive and compassionate care to patients. With a focus on oral health and cosmetic dentistry, Dr. Verma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Dentistry.",
+      "education": "BDS from a renowned dental college, Certificate in Aesthetic Dentistry."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dr. Arjun Singh",
+    "specialty": "Orthopedic",
+    "hospital": "Apollo Hospital, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Arjun Singh is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and sports injuries, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a leading medical university, Fellowship in Joint Replacement Surgery."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dr. Kavita Mehra",
+    "specialty": "Dermatologist",
+    "hospital": "Max Healthcare, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Kavita Mehra is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Mehra is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "8+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Cosmetology."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dr. Rohit Gupta",
+    "specialty": "Neurologist",
+    "hospital": "Sir Ganga Ram Hospital, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Rohit Gupta is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Stroke Management."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Dr. Priyanka Patel",
+    "specialty": "Pediatrician",
+    "hospital": "Breach Candy Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Priyanka Patel is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Patel is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Neonatology."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dr. Amit Kumar",
+    "specialty": "Cardiologist",
+    "hospital": "Manipal Hospitals, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Amit Kumar is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and vascular diseases, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Clinical Cardiology."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Dr. Sneha Roy",
+    "specialty": "Gynecologist",
+    "hospital": "AMRI Hospitals, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Sneha Roy is a highly skilled Gynecologist with a passion for providing comprehensive and compassionate care to patients. With a focus on women's reproductive health, Dr. Roy is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Gynecology.",
+      "education": "MD in Obstetrics & Gynecology from a prestigious medical institution, Diploma in Reproductive Medicine."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Dr. Vishal Dhawan",
+    "specialty": "Psychiatrist",
+    "hospital": "Kokilaben Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Vishal Dhawan is a highly skilled Psychiatrist with a passion for providing comprehensive and compassionate care to patients. With a focus on mental and behavioral health, Dr. Dhawan is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "9+ years of experience in Psychiatry.",
+      "education": "MD in Psychiatry from a top-tier medical university, Training in Cognitive Behavioral Therapy."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Dr. Sunita Reddy",
+    "specialty": "Oncologist",
+    "hospital": "Continental Hospitals, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "bio": "Dr. Sunita Reddy is a highly skilled Oncologist with a passion for providing comprehensive and compassionate care to patients. With a focus on cancer diagnosis and treatment, Dr. Reddy is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "18+ years of experience in Oncology.",
+      "education": "DM in Oncology from a leading medical college, Fellowship in Medical Oncology."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Dr. Manish Jain",
+    "specialty": "General Physician",
+    "hospital": "Ruby Hall Clinic, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Manish Jain is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Jain is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "20+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Dr. Anjali Rao",
+    "specialty": "Endocrinologist",
+    "hospital": "Apollo Gleneagles Hospitals, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Anjali Rao is a highly skilled Endocrinologist with a passion for providing comprehensive and compassionate care to patients. With a focus on hormonal imbalances and metabolic disorders, Dr. Rao is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Endocrinology.",
+      "education": "DM in Endocrinology from a top-tier medical university, Fellowship in Diabetes Care."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Dr. Vikram Srivastav",
+    "specialty": "Nephrologist",
+    "hospital": "Narayana Health City, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Vikram Srivastav is a highly skilled Nephrologist with a passion for providing comprehensive and compassionate care to patients. With a focus on kidney health and renal diseases, Dr. Srivastav is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Nephrology.",
+      "education": "DM in Nephrology from a reputable medical college, Fellowship in Kidney Transplant."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Dr. Pooja Singh",
+    "specialty": "Gastroenterologist",
+    "hospital": "Fortis Hospital, Mohali (Chandigarh)",
+    "location": "Chandigarh, Chandigarh",
+    "bio": "Dr. Pooja Singh is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Hepatology."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Dr. Sanjay Roy",
+    "specialty": "Pediatrician",
+    "hospital": "Medanta, The Medicity, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Sanjay Roy is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Roy is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Cardiology."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Dr. Aparna Das",
+    "specialty": "Pulmonologist",
+    "hospital": "PGI, Chandigarh",
+    "location": "Chandigarh, Chandigarh",
+    "bio": "Dr. Aparna Das is a highly skilled Pulmonologist with a passion for providing comprehensive and compassionate care to patients. With a focus on respiratory diseases and lung health, Dr. Das is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Pulmonology.",
+      "education": "MD in Pulmonology from a top-tier medical university, Fellowship in Interventional Pulmonology."
+    }
+  },
+  {
+    "id": 17,
+    "name": "Dr. Prakash Rao",
+    "specialty": "Urologist",
+    "hospital": "St. John's Medical College Hospital, Bengaluru",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Prakash Rao is a highly skilled Urologist with a passion for providing comprehensive and compassionate care to patients. With a focus on urinary tract and reproductive system health, Dr. Rao is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "18+ years of experience in Urology.",
+      "education": "MCh in Urology from a reputable medical college, Fellowship in Laparoscopic Urology."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Dr. Meena Agarwal",
+    "specialty": "Gynecologist",
+    "hospital": "Jaslok Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Meena Agarwal is a highly skilled Gynecologist with a passion for providing comprehensive and compassionate care to patients. With a focus on women's reproductive health, Dr. Agarwal is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Gynecology.",
+      "education": "MD in Obstetrics & Gynecology from a prestigious medical institution, Diploma in Infertility Management."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Dr. Sudhir Singh",
+    "specialty": "Ophthalmologist",
+    "hospital": "L.V. Prasad Eye Institute, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "bio": "Dr. Sudhir Singh is a highly skilled Ophthalmologist with a passion for providing comprehensive and compassionate care to patients. With a focus on eye and vision care, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Ophthalmology.",
+      "education": "MD in Ophthalmology from a leading medical college, Fellowship in Vitreoretinal Surgery."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Dr. Kavya Iyer",
+    "specialty": "Dermatologist",
+    "hospital": "Apollo Hospital, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Dr. Kavya Iyer is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Iyer is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Aesthetic Medicine."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Dr. Sameer Khan",
+    "specialty": "Orthopedic",
+    "hospital": "KEM Hospital, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Sameer Khan is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and trauma surgery, Dr. Khan is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a top-tier medical university, Fellowship in Sports Medicine."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Dr. Rajesh Pandey",
+    "specialty": "ENT Specialist",
+    "hospital": "Indraprastha Apollo Hospitals, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Rajesh Pandey is a highly skilled ENT Specialist with a passion for providing comprehensive and compassionate care to patients. With a focus on ear, nose, and throat conditions, Dr. Pandey is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in ENT.",
+      "education": "MS in ENT from a leading medical college, Fellowship in Head and Neck Surgery."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Dr. Shreya Joshi",
+    "specialty": "Dentist",
+    "hospital": "Fortis Escorts Heart Institute, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Shreya Joshi is a highly skilled Dentist with a passion for providing comprehensive and compassionate care to patients. With a focus on oral health and restorative dentistry, Dr. Joshi is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "9+ years of experience in Dentistry.",
+      "education": "BDS from a renowned dental college, Certificate in Endodontics."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Dr. Anil Sharma",
+    "specialty": "Pediatrician",
+    "hospital": "AIIMS Patna",
+    "location": "Patna, Bihar",
+    "bio": "Dr. Anil Sharma is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Gastroenterology."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Dr. Pooja Khandelwal",
+    "specialty": "Cardiologist",
+    "hospital": "Bombay Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Pooja Khandelwal is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and cardiac rehabilitation, Dr. Khandelwal is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Non-Invasive Cardiology."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Dr. Vineet Singh",
+    "specialty": "Neurologist",
+    "hospital": "Narayana Multispeciality Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Vineet Singh is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Epilepsy."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Dr. Deepa Gupta",
+    "specialty": "Physiotherapist",
+    "hospital": "Manipal Hospital, Jaipur",
+    "location": "Jaipur, Rajasthan",
+    "bio": "Dr. Deepa Gupta is a highly skilled Physiotherapist with a passion for providing comprehensive and compassionate care to patients. With a focus on physical rehabilitation and pain management, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Physiotherapy.",
+      "education": "Bachelor of Physiotherapy from a recognized institution, Master's in Orthopedic Physiotherapy."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Dr. Rohan Kapoor",
+    "specialty": "Urologist",
+    "hospital": "Columbia Asia Hospital, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Rohan Kapoor is a highly skilled Urologist with a passion for providing comprehensive and compassionate care to patients. With a focus on urinary tract and reproductive system health, Dr. Kapoor is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Urology.",
+      "education": "MCh in Urology from a reputable medical college, Fellowship in Robotic Surgery."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Dr. Swati Sharma",
+    "specialty": "General Physician",
+    "hospital": "Max Hospital, Saket, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Swati Sharma is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Dr. Pranav Desai",
+    "specialty": "Ophthalmologist",
+    "hospital": "Artemis Hospital, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Pranav Desai is a highly skilled Ophthalmologist with a passion for providing comprehensive and compassionate care to patients. With a focus on eye and vision care, Dr. Desai is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Ophthalmology.",
+      "education": "MD in Ophthalmology from a leading medical college, Fellowship in Cornea."
+    }
+  },
+  {
+    "id": 31,
+    "name": "Dr. Tanya Singh",
+    "specialty": "Dermatologist",
+    "hospital": "Apollo Multispeciality Hospital, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Tanya Singh is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "9+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Trichology."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Dr. Mahesh Gowda",
+    "specialty": "General Surgeon",
+    "hospital": "Fortis La Femme, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Mahesh Gowda is a highly skilled General Surgeon with a passion for providing comprehensive and compassionate care to patients. With a focus on surgical procedures and trauma care, Dr. Gowda is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "18+ years of experience in General Surgery.",
+      "education": "MS in General Surgery from a top-tier medical university, Fellowship in Laparoscopic Surgery."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Dr. Sangeeta Rao",
+    "specialty": "Gynecologist",
+    "hospital": "Cloudnine Hospital, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Sangeeta Rao is a highly skilled Gynecologist with a passion for providing comprehensive and compassionate care to patients. With a focus on women's reproductive health, Dr. Rao is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Gynecology.",
+      "education": "MD in Obstetrics & Gynecology from a prestigious medical institution, Diploma in High-Risk Pregnancy."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Dr. Avinash Verma",
+    "specialty": "Orthopedic",
+    "hospital": "Medanta Hospital, Lucknow",
+    "location": "Lucknow, Uttar Pradesh",
+    "bio": "Dr. Avinash Verma is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and sports injuries, Dr. Verma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a leading medical university, Fellowship in Sports Medicine."
+    }
+  },
+  {
+    "id": 35,
+    "name": "Dr. Kiran Bhatia",
+    "specialty": "Cardiologist",
+    "hospital": "Asian Institute of Medical Sciences, Faridabad",
+    "location": "Faridabad, Haryana",
+    "bio": "Dr. Kiran Bhatia is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and preventive cardiology, Dr. Bhatia is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Preventive Cardiology."
+    }
+  },
+  {
+    "id": 36,
+    "name": "Dr. Vivek Khanna",
+    "specialty": "Gastroenterologist",
+    "hospital": "Sakra World Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Vivek Khanna is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Khanna is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Endoscopy."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Dr. Riya Sen",
+    "specialty": "Neurologist",
+    "hospital": "Tata Medical Center, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Riya Sen is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Sen is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Movement Disorders."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Dr. Rahul Sharma",
+    "specialty": "Pediatrician",
+    "hospital": "Max Hospital, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Rahul Sharma is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Critical Care."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Dr. Aditi Gupta",
+    "specialty": "Endocrinologist",
+    "hospital": "Yashoda Hospitals, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "bio": "Dr. Aditi Gupta is a highly skilled Endocrinologist with a passion for providing comprehensive and compassionate care to patients. With a focus on hormonal imbalances and metabolic disorders, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Endocrinology.",
+      "education": "DM in Endocrinology from a top-tier medical university, Fellowship in Thyroid Disorders."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Dr. Manoj Kumar",
+    "specialty": "Urologist",
+    "hospital": "Aster CMI Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Manoj Kumar is a highly skilled Urologist with a passion for providing comprehensive and compassionate care to patients. With a focus on urinary tract and reproductive system health, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Urology.",
+      "education": "MCh in Urology from a reputable medical college, Fellowship in Uro-oncology."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Dr. Rekha Dubey",
+    "specialty": "General Physician",
+    "hospital": "Fortis Vasant Kunj, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Rekha Dubey is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Dubey is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Dr. Sumit Singh",
+    "specialty": "Cardiologist",
+    "hospital": "Lilavati Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Sumit Singh is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and cardiovascular surgery, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Cardiovascular Surgery."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Dr. Megha Sharma",
+    "specialty": "Dermatologist",
+    "hospital": "Sagar Hospitals, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Megha Sharma is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Laser Therapy."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Dr. Anand P.",
+    "specialty": "Psychiatrist",
+    "hospital": "Apollo Hospitals, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Dr. Anand P. is a highly skilled Psychiatrist with a passion for providing comprehensive and compassionate care to patients. With a focus on mental and behavioral health, Dr. Anand P. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Psychiatry.",
+      "education": "MD in Psychiatry from a top-tier medical university, Training in Child & Adolescent Psychiatry."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Dr. Swathi Reddy",
+    "specialty": "ENT Specialist",
+    "hospital": "Manipal Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Swathi Reddy is a highly skilled ENT Specialist with a passion for providing comprehensive and compassionate care to patients. With a focus on ear, nose, and throat conditions, Dr. Reddy is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in ENT.",
+      "education": "MS in ENT from a leading medical college, Fellowship in Otology."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Dr. Gautam Das",
+    "specialty": "Orthopedic",
+    "hospital": "PGI, Chandigarh",
+    "location": "Chandigarh, Chandigarh",
+    "bio": "Dr. Gautam Das is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and spine surgery, Dr. Das is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "18+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a top-tier medical university, Fellowship in Spine Surgery."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Dr. Neha Agarwal",
+    "specialty": "General Physician",
+    "hospital": "Columbia Asia Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Neha Agarwal is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Agarwal is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Dr. Sameer Gupta",
+    "specialty": "Gastroenterologist",
+    "hospital": "Fortis Hospital, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Sameer Gupta is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Colonoscopy."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Dr. Kavita Desai",
+    "specialty": "Neurologist",
+    "hospital": "Yashoda Hospitals, Hyderabad",
+    "location": "Hyderabad, Telangana",
+    "bio": "Dr. Kavita Desai is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Desai is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Parkinson's Disease."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Dr. Rohit Kumar",
+    "specialty": "Pediatrician",
+    "hospital": "Medanta, The Medicity, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Rohit Kumar is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Hematology."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Dr. Anjali Verma",
+    "specialty": "Dermatologist",
+    "hospital": "Ruby Hall Clinic, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Anjali Verma is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Verma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Dermatosurgery."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Dr. Vinod Sharma",
+    "specialty": "Cardiologist",
+    "hospital": "AIIMS Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Vinod Sharma is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and vascular diseases, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "19+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Cardiac Electrophysiology."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Dr. Sonali Gupta",
+    "specialty": "General Physician",
+    "hospital": "Apollo Hospitals, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Dr. Sonali Gupta is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Dr. Akshay Jain",
+    "specialty": "ENT Specialist",
+    "hospital": "Jaslok Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Akshay Jain is a highly skilled ENT Specialist with a passion for providing comprehensive and compassionate care to patients. With a focus on ear, nose, and throat conditions, Dr. Jain is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in ENT.",
+      "education": "MS in ENT from a leading medical college, Fellowship in Rhinology."
+    }
+  },
+  {
+    "id": 55,
+    "name": "Dr. Preeti Singh",
+    "specialty": "Gynecologist",
+    "hospital": "Fortis Hospital, Mohali (Chandigarh)",
+    "location": "Chandigarh, Chandigarh",
+    "bio": "Dr. Preeti Singh is a highly skilled Gynecologist with a passion for providing comprehensive and compassionate care to patients. With a focus on women's reproductive health, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Gynecology.",
+      "education": "MD in Obstetrics & Gynecology from a prestigious medical institution, Diploma in Minimally Invasive Surgery."
+    }
+  },
+  {
+    "id": 56,
+    "name": "Dr. Rahul Agrawal",
+    "specialty": "Oncologist",
+    "hospital": "Columbia Asia Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Rahul Agrawal is a highly skilled Oncologist with a passion for providing comprehensive and compassionate care to patients. With a focus on cancer diagnosis and treatment, Dr. Agrawal is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Oncology.",
+      "education": "DM in Oncology from a leading medical college, Fellowship in Radiation Oncology."
+    }
+  },
+  {
+    "id": 57,
+    "name": "Dr. Shruti Das",
+    "specialty": "Pediatrician",
+    "hospital": "AMRI Hospitals, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Shruti Das is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Das is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Infectious Diseases."
+    }
+  },
+  {
+    "id": 58,
+    "name": "Dr. Vijay Kumar",
+    "specialty": "Orthopedic",
+    "hospital": "Sir Ganga Ram Hospital, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Vijay Kumar is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and joint replacement, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "19+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a top-tier medical university, Fellowship in Arthroplasty."
+    }
+  },
+  {
+    "id": 59,
+    "name": "Dr. Shalini Singh",
+    "specialty": "General Physician",
+    "hospital": "Medanta, The Medicity, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Shalini Singh is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 60,
+    "name": "Dr. Vivek Mishra",
+    "specialty": "Gastroenterologist",
+    "hospital": "AIIMS Patna",
+    "location": "Patna, Bihar",
+    "bio": "Dr. Vivek Mishra is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Mishra is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Pancreatic Diseases."
+    }
+  },
+  {
+    "id": 61,
+    "name": "Dr. Aruna Singh",
+    "specialty": "Dermatologist",
+    "hospital": "Apollo Hospitals, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Aruna Singh is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Clinical Dermatology."
+    }
+  },
+  {
+    "id": 62,
+    "name": "Dr. Manoj Patel",
+    "specialty": "Cardiologist",
+    "hospital": "Breach Candy Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Manoj Patel is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and vascular diseases, Dr. Patel is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Cardiac Imaging."
+    }
+  },
+  {
+    "id": 63,
+    "name": "Dr. Sarita Mehra",
+    "specialty": "Nephrologist",
+    "hospital": "Narayana Multispeciality Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Sarita Mehra is a highly skilled Nephrologist with a passion for providing comprehensive and compassionate care to patients. With a focus on kidney health and dialysis, Dr. Mehra is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Nephrology.",
+      "education": "DM in Nephrology from a reputable medical college, Fellowship in Interventional Nephrology."
+    }
+  },
+  {
+    "id": 64,
+    "name": "Dr. Sandeep Kumar",
+    "specialty": "Urologist",
+    "hospital": "Max Healthcare, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Sandeep Kumar is a highly skilled Urologist with a passion for providing comprehensive and compassionate care to patients. With a focus on urinary tract and reproductive system health, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Urology.",
+      "education": "MCh in Urology from a reputable medical college, Fellowship in Urological Oncology."
+    }
+  },
+  {
+    "id": 65,
+    "name": "Dr. Poonam Desai",
+    "specialty": "ENT Specialist",
+    "hospital": "Sir Ganga Ram Hospital, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Poonam Desai is a highly skilled ENT Specialist with a passion for providing comprehensive and compassionate care to patients. With a focus on ear, nose, and throat conditions, Dr. Desai is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in ENT.",
+      "education": "MS in ENT from a leading medical college, Fellowship in Laryngology."
+    }
+  },
+  {
+    "id": 66,
+    "name": "Dr. Abhinav Gupta",
+    "specialty": "Psychiatrist",
+    "hospital": "Manipal Hospitals, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Abhinav Gupta is a highly skilled Psychiatrist with a passion for providing comprehensive and compassionate care to patients. With a focus on mental and behavioral health, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Psychiatry.",
+      "education": "MD in Psychiatry from a top-tier medical university, Training in De-addiction Medicine."
+    }
+  },
+  {
+    "id": 67,
+    "name": "Dr. Smita Roy",
+    "specialty": "Gynecologist",
+    "hospital": "Ruby Hall Clinic, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Smita Roy is a highly skilled Gynecologist with a passion for providing comprehensive and compassionate care to patients. With a focus on women's reproductive health, Dr. Roy is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Gynecology.",
+      "education": "MD in Obstetrics & Gynecology from a prestigious medical institution, Diploma in Gynae-oncology."
+    }
+  },
+  {
+    "id": 68,
+    "name": "Dr. Varun Sharma",
+    "specialty": "Orthopedic",
+    "hospital": "Fortis Hospital, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Varun Sharma is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and spine surgery, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a top-tier medical university, Fellowship in Hand & Microsurgery."
+    }
+  },
+  {
+    "id": 69,
+    "name": "Dr. Ritika Jain",
+    "specialty": "Pediatrician",
+    "hospital": "Columbia Asia Hospital, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Ritika Jain is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Jain is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Endocrinology."
+    }
+  },
+  {
+    "id": 70,
+    "name": "Dr. Suresh V.",
+    "specialty": "Cardiologist",
+    "hospital": "Narayana Health City, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Suresh V. is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and cardiac surgery, Dr. Suresh V. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "18+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Pediatric Cardiology."
+    }
+  },
+  {
+    "id": 71,
+    "name": "Dr. Nikita Singh",
+    "specialty": "Dermatologist",
+    "hospital": "Sakra World Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Nikita Singh is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Clinical Cosmetology."
+    }
+  },
+  {
+    "id": 72,
+    "name": "Dr. Aditya Kumar",
+    "specialty": "Gastroenterologist",
+    "hospital": "Medanta, The Medicity, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Aditya Kumar is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Liver Transplant."
+    }
+  },
+  {
+    "id": 73,
+    "name": "Dr. Shalini Rai",
+    "specialty": "Neurologist",
+    "hospital": "Indraprastha Apollo Hospitals, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Shalini Rai is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Rai is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Neuro-oncology."
+    }
+  },
+  {
+    "id": 74,
+    "name": "Dr. Pratik K.",
+    "specialty": "General Physician",
+    "hospital": "AIIMS Patna",
+    "location": "Patna, Bihar",
+    "bio": "Dr. Pratik K. is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Pratik K. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 75,
+    "name": "Dr. Ananya Roy",
+    "specialty": "Oncologist",
+    "hospital": "Tata Medical Center, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Ananya Roy is a highly skilled Oncologist with a passion for providing comprehensive and compassionate care to patients. With a focus on cancer diagnosis and treatment, Dr. Roy is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Oncology.",
+      "education": "DM in Oncology from a leading medical college, Fellowship in Pediatric Oncology."
+    }
+  },
+  {
+    "id": 76,
+    "name": "Dr. Sanjay Gupta",
+    "specialty": "Urologist",
+    "hospital": "Fortis Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Sanjay Gupta is a highly skilled Urologist with a passion for providing comprehensive and compassionate care to patients. With a focus on urinary tract and reproductive system health, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Urology.",
+      "education": "MCh in Urology from a reputable medical college, Fellowship in Reconstructive Urology."
+    }
+  },
+  {
+    "id": 77,
+    "name": "Dr. Aarti Sharma",
+    "specialty": "General Surgeon",
+    "hospital": "PGI, Chandigarh",
+    "location": "Chandigarh, Chandigarh",
+    "bio": "Dr. Aarti Sharma is a highly skilled General Surgeon with a passion for providing comprehensive and compassionate care to patients. With a focus on surgical procedures and trauma care, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "19+ years of experience in General Surgery.",
+      "education": "MS in General Surgery from a top-tier medical university, Fellowship in Bariatric Surgery."
+    }
+  },
+  {
+    "id": 78,
+    "name": "Dr. Rajeev Verma",
+    "specialty": "Ophthalmologist",
+    "hospital": "Jaslok Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Rajeev Verma is a highly skilled Ophthalmologist with a passion for providing comprehensive and compassionate care to patients. With a focus on eye and vision care, Dr. Verma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Ophthalmology.",
+      "education": "MD in Ophthalmology from a leading medical college, Fellowship in Glaucoma."
+    }
+  },
+  {
+    "id": 79,
+    "name": "Dr. Suman Das",
+    "specialty": "Pediatrician",
+    "hospital": "Apollo Hospitals, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Dr. Suman Das is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Das is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Neurology."
+    }
+  },
+  {
+    "id": 80,
+    "name": "Dr. Karan Singh",
+    "specialty": "Orthopedic",
+    "hospital": "Ruby Hall Clinic, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Karan Singh is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and sports injuries, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a top-tier medical university, Fellowship in Arthroscopy."
+    }
+  },
+  {
+    "id": 81,
+    "name": "Dr. Neha Agnihotri",
+    "specialty": "Endocrinologist",
+    "hospital": "Max Hospital, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Neha Agnihotri is a highly skilled Endocrinologist with a passion for providing comprehensive and compassionate care to patients. With a focus on hormonal imbalances and metabolic disorders, Dr. Agnihotri is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Endocrinology.",
+      "education": "DM in Endocrinology from a top-tier medical university, Fellowship in Pituitary Disorders."
+    }
+  },
+  {
+    "id": 82,
+    "name": "Dr. Arun Kumar",
+    "specialty": "Cardiologist",
+    "hospital": "AIIMS Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Arun Kumar is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and vascular diseases, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "20+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Interventional Cardiology."
+    }
+  },
+  {
+    "id": 83,
+    "name": "Dr. Jyoti P.",
+    "specialty": "Dermatologist",
+    "hospital": "Fortis Hospital, Noida",
+    "location": "Noida, Uttar Pradesh",
+    "bio": "Dr. Jyoti P. is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Jyoti P. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Pediatric Dermatology."
+    }
+  },
+  {
+    "id": 84,
+    "name": "Dr. Vivek Sharma",
+    "specialty": "Psychiatrist",
+    "hospital": "Manipal Hospitals, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Vivek Sharma is a highly skilled Psychiatrist with a passion for providing comprehensive and compassionate care to patients. With a focus on mental and behavioral health, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "11+ years of experience in Psychiatry.",
+      "education": "MD in Psychiatry from a top-tier medical university, Training in Geriatric Psychiatry."
+    }
+  },
+  {
+    "id": 85,
+    "name": "Dr. Shraddha Kapoor",
+    "specialty": "Gynecologist",
+    "hospital": "Jaslok Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Shraddha Kapoor is a highly skilled Gynecologist with a passion for providing comprehensive and compassionate care to patients. With a focus on women's reproductive health, Dr. Kapoor is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Gynecology.",
+      "education": "MD in Obstetrics & Gynecology from a prestigious medical institution, Diploma in Infertility."
+    }
+  },
+  {
+    "id": 86,
+    "name": "Dr. Alok Verma",
+    "specialty": "Neurologist",
+    "hospital": "Medanta, The Medicity, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Alok Verma is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Verma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Alzheimer's Disease."
+    }
+  },
+  {
+    "id": 87,
+    "name": "Dr. Sheetal Jain",
+    "specialty": "General Physician",
+    "hospital": "Apollo Hospitals, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Dr. Sheetal Jain is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Jain is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "18+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  },
+  {
+    "id": 88,
+    "name": "Dr. Pranav Sharma",
+    "specialty": "Pediatrician",
+    "hospital": "AIIMS Patna",
+    "location": "Patna, Bihar",
+    "bio": "Dr. Pranav Sharma is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "13+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Hematology."
+    }
+  },
+  {
+    "id": 89,
+    "name": "Dr. Kavita Singh",
+    "specialty": "ENT Specialist",
+    "hospital": "Fortis Hospital, Mohali (Chandigarh)",
+    "location": "Chandigarh, Chandigarh",
+    "bio": "Dr. Kavita Singh is a highly skilled ENT Specialist with a passion for providing comprehensive and compassionate care to patients. With a focus on ear, nose, and throat conditions, Dr. Singh is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in ENT.",
+      "education": "MS in ENT from a leading medical college, Fellowship in Cochlear Implants."
+    }
+  },
+  {
+    "id": 90,
+    "name": "Dr. Rajesh Gupta",
+    "specialty": "Gastroenterologist",
+    "hospital": "Ruby Hall Clinic, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Rajesh Gupta is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Advanced Endoscopy."
+    }
+  },
+  {
+    "id": 91,
+    "name": "Dr. Meena Sharma",
+    "specialty": "Urologist",
+    "hospital": "Fortis Escorts Heart Institute, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Meena Sharma is a highly skilled Urologist with a passion for providing comprehensive and compassionate care to patients. With a focus on urinary tract and reproductive system health, Dr. Sharma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Urology.",
+      "education": "MCh in Urology from a reputable medical college, Fellowship in Pediatric Urology."
+    }
+  },
+  {
+    "id": 92,
+    "name": "Dr. Vishal Kumar",
+    "specialty": "General Surgeon",
+    "hospital": "Sakra World Hospital, Bangalore",
+    "location": "Bangalore, Karnataka",
+    "bio": "Dr. Vishal Kumar is a highly skilled General Surgeon with a passion for providing comprehensive and compassionate care to patients. With a focus on surgical procedures and trauma care, Dr. Kumar is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in General Surgery.",
+      "education": "MS in General Surgery from a top-tier medical university, Fellowship in Surgical Oncology."
+    }
+  },
+  {
+    "id": 93,
+    "name": "Dr. Smita Verma",
+    "specialty": "Orthopedic",
+    "hospital": "Medanta, The Medicity, Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "bio": "Dr. Smita Verma is a highly skilled Orthopedic with a passion for providing comprehensive and compassionate care to patients. With a focus on musculoskeletal health and trauma surgery, Dr. Verma is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Orthopedics.",
+      "education": "MS in Orthopedics from a top-tier medical university, Fellowship in Trauma Surgery."
+    }
+  },
+  {
+    "id": 94,
+    "name": "Dr. Aman Gupta",
+    "specialty": "Cardiologist",
+    "hospital": "Apollo Hospital, Chennai",
+    "location": "Chennai, Tamil Nadu",
+    "bio": "Dr. Aman Gupta is a highly skilled Cardiologist with a passion for providing comprehensive and compassionate care to patients. With a focus on heart health and vascular diseases, Dr. Gupta is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "10+ years of experience in Cardiology.",
+      "education": "MD in Cardiology from a reputed medical college, Fellowship in Pediatric Cardiology."
+    }
+  },
+  {
+    "id": 95,
+    "name": "Dr. Sonia P.",
+    "specialty": "Dermatologist",
+    "hospital": "Sir Ganga Ram Hospital, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Sonia P. is a highly skilled Dermatologist with a passion for providing comprehensive and compassionate care to patients. With a focus on skin, hair, and nail conditions, Dr. Sonia P. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Dermatology.",
+      "education": "MD in Dermatology from a reputable medical college, Diploma in Clinical Cosmetology."
+    }
+  },
+  {
+    "id": 96,
+    "name": "Dr. Rahul Agnihotri",
+    "specialty": "Oncologist",
+    "hospital": "Tata Medical Center, Kolkata",
+    "location": "Kolkata, West Bengal",
+    "bio": "Dr. Rahul Agnihotri is a highly skilled Oncologist with a passion for providing comprehensive and compassionate care to patients. With a focus on cancer diagnosis and treatment, Dr. Agnihotri is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "16+ years of experience in Oncology.",
+      "education": "DM in Oncology from a leading medical college, Fellowship in Breast Cancer Treatment."
+    }
+  },
+  {
+    "id": 97,
+    "name": "Dr. Ananya S.",
+    "specialty": "Neurologist",
+    "hospital": "Columbia Asia Hospital, Pune",
+    "location": "Pune, Maharashtra",
+    "bio": "Dr. Ananya S. is a highly skilled Neurologist with a passion for providing comprehensive and compassionate care to patients. With a focus on disorders of the nervous system, Dr. Ananya S. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "14+ years of experience in Neurology.",
+      "education": "DM in Neurology from a top-tier medical university, Fellowship in Pediatric Neurology."
+    }
+  },
+  {
+    "id": 98,
+    "name": "Dr. Vineet Malhotra",
+    "specialty": "Gastroenterologist",
+    "hospital": "Fortis Hospital, Mumbai",
+    "location": "Mumbai, Maharashtra",
+    "bio": "Dr. Vineet Malhotra is a highly skilled Gastroenterologist with a passion for providing comprehensive and compassionate care to patients. With a focus on digestive system disorders, Dr. Malhotra is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "17+ years of experience in Gastroenterology.",
+      "education": "DM in Gastroenterology from a leading medical college, Fellowship in Inflammatory Bowel Disease."
+    }
+  },
+  {
+    "id": 99,
+    "name": "Dr. Sheetal Jain",
+    "specialty": "Pediatrician",
+    "hospital": "AIIMS Patna",
+    "location": "Patna, Bihar",
+    "bio": "Dr. Sheetal Jain is a highly skilled Pediatrician with a passion for providing comprehensive and compassionate care to patients. With a focus on child health and development, Dr. Jain is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "12+ years of experience in Pediatrics.",
+      "education": "MD in Pediatrics from a prestigious medical institution, Fellowship in Pediatric Endocrinology."
+    }
+  },
+  {
+    "id": 100,
+    "name": "Dr. Pratik K.",
+    "specialty": "General Physician",
+    "hospital": "Max Healthcare, Delhi",
+    "location": "Delhi, Delhi",
+    "bio": "Dr. Pratik K. is a highly skilled General Physician with a passion for providing comprehensive and compassionate care to patients. With a focus on primary and preventative care, Dr. Pratik K. is committed to delivering patient-centered treatment and achieving the best possible health outcomes.",
+    "specialty_details": {
+      "work_experience": "15+ years of experience in General Medicine.",
+      "education": "MBBS from a prestigious medical college, MD in General Medicine."
+    }
+  }
+]
