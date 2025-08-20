@@ -78,11 +78,11 @@ const videoLinks = [
 ];
 
 const categories = [
-  { name: "All", icon: "/icons/All.svg" },
+  { name: "All", icon: "/icons/all.svg" },
   { name: "Hair", icon: "/icons/hair.svg" },
   { name: "Skin", icon: "/icons/skin.svg" },
   { name: "Digestion", icon: "/icons/digestion.svg" },
-  { name: "Bones", icon: "/icons/Bones.svg" },
+  { name: "Bones", icon: "/icons/bones.svg" },
   { name: "Immunity", icon: "/icons/immunity.svg" },
   { name: "More", icon: "/icons/more.svg" },
 ];
